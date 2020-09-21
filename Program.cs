@@ -86,7 +86,7 @@ namespace foglalas_nyilvantarto
                     Console.Write(' ');
                 }
                 Console.SetCursorPosition(0, 5 + index * 8);
-                KozepreIgazit(vendeg_adata, false, false);
+                KozepreIgazit(vendeg_adata, false, true);
             }
             return vendeg_adata;
         }
