@@ -26,6 +26,9 @@ Az írány jó csak kevés, pontosítani a formai követelményekhez
 - [ ] Konkrét szoftver
 
 Ez elvileg szinte kész, max apróbb módosítás kellhet.
+Szemeszter végén lesz aktuális, valószinűleg az a elképzelés hogy mindent pontosan ledokumentálunk, megtervezünk, stb..
+
+Valamenyire próbáljuk szinkronizálni a dokksikkal, ha kell akkor majd a végén a dokksikhoz igazítjuk.
 
 ### Határidők
 - Pót-bemutató valamikor Okt 12-16-ig. erről majd jön email.
