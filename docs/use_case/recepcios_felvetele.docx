@@ -1,0 +1,50 @@
+﻿
+Név
+Foglalás adatok megadásával
+Követelmény
+K1K3K4
+Cél
+A rendszer eltárol egy recepciós hozzáférést
+Előfeltétel
+-
+Sikeres lefutás
+A rendszer eltárol egy recepciós hozzáférést
+Sikertelen lefutás
+A rendszer hibát jelez, ezt követően kilép.
+Elsődleges aktor
+Menedzser aktor
+Másodlagos aktor
+-
+Kiváltó esemény
+Menedzser aktor kiválasztja a Új Recepciós felvétele menüpontot
+Fő lépések
+Lépés
+Tevékenység
+
+1
+Menedzser aktor kiválasztja a Új Recepciós felvétele menüpontot
+
+2
+Recepciós űrlap megjelenik
+
+3
+Recepciós űrlap validálása
+
+4
+Adatok tárolása
+
+6
+Vissza a főmenübe
+Kiegészítések
+Lépés
+Tevékenység
+
+3.1
+Hiba a bevitt adatokban, vissza a 2.-es lépéshez.
+
+4.1
+Tárolás sikertelen
+
+4.2
+A rendszer hibát jelez, ezt követően kilép.
+
