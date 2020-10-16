@@ -1,9 +1,10 @@
 # Foglalás nyilvántartó [ Szoftech ]
 
 ### Eddig ismert teendők
-- [x] Specifikáció
+- [ ] Specifikáció
 
 Ez úgy néz ki hogy jó, le is okézták.
+Nyilván ez se jó, újra kell igazítani.
 
 ---
 
@@ -15,11 +16,17 @@ Ha még nem akkor ezzel érdemes ( nem tudom hogy megvan-e kötve mibe kell ) :
 
 https://www.diagrams.net ( draw.io, új címe )
 
----
 
 - [ ] Use case táblázat diagramhoz kapcsolódva
 
 Az írány jó csak kevés, pontosítani a formai követelményekhez
+
+### Peremfeltételek usecase témában:
+- [ ] legalább 3 aktor
+- [ ] aktoronként 3 tevékenység
+- [ ] 1 db include
+- [ ] 1 db ( extends / ? exclude )
+
 
 ---
 
@@ -31,6 +38,6 @@ Szemeszter végén lesz aktuális, valószinűleg az a elképzelés hogy mindent
 Valamenyire próbáljuk szinkronizálni a dokksikkal, ha kell akkor majd a végén a dokksikhoz igazítjuk.
 
 ### Határidők
-- Pót-bemutató valamikor Okt 12-16-ig. erről majd jön email.
+- [X] Pót bemutató
+- [ ] Pót-Pót-Pót beszámoló Okt 19. Hétfő de. De vasárnap mindenképp befejezzük.
 
-???
